@@ -2002,6 +2002,7 @@ if TYPE_CHECKING:
     )
     from .llms.dashscope.responses.transformation import (
         DashScopeResponsesAPIConfig as DashScopeResponsesAPIConfig,
+    )
     from .llms.modelscope.chat.transformation import (
         ModelScopeChatConfig as ModelScopeChatConfig,
     )
