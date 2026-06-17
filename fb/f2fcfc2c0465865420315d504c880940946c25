@@ -1,0 +1,22 @@
+tests/test_litellm/router_strategy/test_router_tag_routing.py
+  s_d40af6a3756dcf::t_bb606d86ac07a5 434-507
+litellm/router_strategy/tag_based_routing.py
+  s_d40af6a3756dcf::t_9e49e447e7b693 126-145
+  s_d40af6a3756dcf::t_fd2da2e8076c52 39-64
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.5.8",
+  "base_commit_sha": "fbf2fcfc2c0465865420315d504c880940946c25",
+  "prompts": {},
+  "sessions": {
+    "s_d40af6a3756dcf": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "9c0a7ead-0c45-40ad-b0c6-9ec7b8ef3786",
+        "model": "claude-opus-4-8"
+      },
+      "human_author": "poi1649 <bojun.kim@deliveryhero.com>"
+    }
+  }
+}
