@@ -1166,7 +1166,7 @@ _LLM_CONFIGS_IMPORT_MAP = {
     "DashScopeResponsesAPIConfig": (
         ".llms.dashscope.responses.transformation",
         "DashScopeResponsesAPIConfig",
-     ),
+    ),
     "ModelScopeChatConfig": (
         ".llms.modelscope.chat.transformation",
         "ModelScopeChatConfig",
