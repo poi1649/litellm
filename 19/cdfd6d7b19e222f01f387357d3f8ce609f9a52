@@ -1,0 +1,35 @@
+litellm/router.py
+  s_d40af6a3756dcf::t_c356e25a0c6d09 11285-11289
+tests/test_litellm/router_strategy/test_router_tag_routing.py
+  s_d40af6a3756dcf::t_8c8de7c41bd362 476-515,518-522,524-557,608-610
+  s_d40af6a3756dcf::t_433beba6a41a22 558-607
+  s_d40af6a3756dcf::t_0f3ddab20a53b6 516-517,523
+litellm/router_strategy/tag_based_routing.py
+  s_d40af6a3756dcf::t_bf33d5cbff458c 125,127,136,154,156-161,163,170-172,174-189
+  s_d40af6a3756dcf::t_518d1ec0fe5b03 122,128-135,137,155,162,164-169,173
+  s_d40af6a3756dcf::t_bed5f25413fc91 138-153
+  s_d40af6a3756dcf::t_f405d7c2563747 295
+  s_d40af6a3756dcf::t_b545ffaa5ac59e 294
+  s_d40af6a3756dcf::t_93a26456953634 123-124
+  s_d40af6a3756dcf::t_cff5301065df92 121
+  s_d40af6a3756dcf::t_16a7c4d784fef9 196
+  s_d40af6a3756dcf::t_7637bdce8895df 296-297
+  s_d40af6a3756dcf::t_17484b7d1d0ebe 126
+  s_d40af6a3756dcf::t_57f32882fa3b55 298-299
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.6.3",
+  "base_commit_sha": "19cdfd6d7b19e222f01f387357d3f8ce609f9a52",
+  "prompts": {},
+  "sessions": {
+    "s_d40af6a3756dcf": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "9c0a7ead-0c45-40ad-b0c6-9ec7b8ef3786",
+        "model": "claude-opus-4-8"
+      },
+      "human_author": null
+    }
+  }
+}
