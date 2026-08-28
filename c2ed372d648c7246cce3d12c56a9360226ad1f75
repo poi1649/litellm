@@ -1,0 +1,20 @@
+litellm/router_strategy/tag_based_routing.py
+  s_d40af6a3756dcf::t_c9b099ff63b714 121-153
+  s_d40af6a3756dcf::t_5152ffa0a94226 257-277
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.5.8",
+  "base_commit_sha": "c2ed372d648c7246cce3d12c56a9360226ad1f75",
+  "prompts": {},
+  "sessions": {
+    "s_d40af6a3756dcf": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "9c0a7ead-0c45-40ad-b0c6-9ec7b8ef3786",
+        "model": "claude-opus-4-8"
+      },
+      "human_author": "poi1649 <bojun.kim@deliveryhero.com>"
+    }
+  }
+}

@@ -1,0 +1,28 @@
+litellm/router_strategy/tag_based_routing.py
+  s_d40af6a3756dcf::t_bf33d5cbff458c 122-123,126,128,136,154-189
+  s_d40af6a3756dcf::t_b545ffaa5ac59e 293
+  s_d40af6a3756dcf::t_93a26456953634 124-125
+  s_d40af6a3756dcf::t_cff5301065df92 121
+  s_d40af6a3756dcf::t_17484b7d1d0ebe 127
+  s_d40af6a3756dcf::t_0035f520e24860 129-131,133-135
+  s_d40af6a3756dcf::t_bed5f25413fc91 137-139,151-153
+  s_d40af6a3756dcf::t_7637bdce8895df 294-296
+tests/test_litellm/router_strategy/test_router_tag_routing.py
+  s_d40af6a3756dcf::t_8c8de7c41bd362 476-557
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.6.3",
+  "base_commit_sha": "1fa8d08f0692f68d5f74ee379f100c343bc3a0f2",
+  "prompts": {},
+  "sessions": {
+    "s_d40af6a3756dcf": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "9c0a7ead-0c45-40ad-b0c6-9ec7b8ef3786",
+        "model": "claude-opus-4-8"
+      },
+      "human_author": "poi1649 <bojun.kim@deliveryhero.com>"
+    }
+  }
+}
