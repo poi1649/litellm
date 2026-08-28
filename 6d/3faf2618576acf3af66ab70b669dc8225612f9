@@ -1,0 +1,24 @@
+tests/test_litellm/responses/test_responses_websocket_all_providers.py
+  s_a91ab838372a75::t_1d98de3839126b 2622-2792
+litellm/litellm_core_utils/litellm_logging.py
+  s_a91ab838372a75::t_a63eca1ae04fe7 1972-1976
+litellm/responses/utils.py
+  s_a91ab838372a75::t_6d09485395937f 6,14
+  s_a91ab838372a75::t_67df5071c5ae65 1173-1240
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.6.15",
+  "base_commit_sha": "6d3faf2618576acf3af66ab70b669dc8225612f9",
+  "prompts": {},
+  "sessions": {
+    "s_a91ab838372a75": {
+      "agent_id": {
+        "tool": "opencode",
+        "id": "ses_fb70da8fcffeYS3yzzIuuiXXls",
+        "model": "gemini-3-7-flash"
+      },
+      "human_author": "poi1649 <bojun.kim@deliveryhero.com>"
+    }
+  }
+}
