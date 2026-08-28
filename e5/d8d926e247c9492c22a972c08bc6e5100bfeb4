@@ -1,0 +1,21 @@
+litellm/responses/utils.py
+  s_a91ab838372a75::t_e1dfb58a0d2a3c 1179
+tests/test_litellm/responses/test_responses_websocket_all_providers.py
+  s_a91ab838372a75::t_e1dfb58a0d2a3c 47,52,83,93,102,107,112,117,122,127,132,137,142,147,252,306,315,366,440,469,494,525,552,856,908,923,934,1112,1136,1157,1163,1211,1230,1234,1273,1293,1305,1313,1396,1402,1477,1546,1567,1583,1643,1650,1654,1660,1664,1671,1675,1696,1718,1724,1744,1749,1766,1771,1792,1797,1799,1805,1810,1815,1832,1846,1855,1869,1883,1920,1976,2100,2239,2291,2349,2370,2395-2396,2405
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.6.15",
+  "base_commit_sha": "e5d8d926e247c9492c22a972c08bc6e5100bfeb4",
+  "prompts": {},
+  "sessions": {
+    "s_a91ab838372a75": {
+      "agent_id": {
+        "tool": "opencode",
+        "id": "ses_fb70da8fcffeYS3yzzIuuiXXls",
+        "model": "gemini-3-7-flash"
+      },
+      "human_author": "poi1649 <bojun.kim@deliveryhero.com>"
+    }
+  }
+}
